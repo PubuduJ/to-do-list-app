@@ -1,6 +1,29 @@
-# Getting Started with Create React App
+# To Do List Application <img src="assets/logo.png" alt="drawing" width="27px"/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This is a straightforward task list application that can list out the chores.
+The objective of this project was to increase understanding of the **React JS component-based architecture**, 
+as well as **React hooks** and **React props.**
+
+#### User Interface
+<img src="assets/user-interface.png" alt="main-form" width="500px"/>
+
+## Used Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- React JS
+
+#### Used Integrated Development Environment
+- IntelliJ IDEA
+
+## How to use ?
+- This project can be used by cloning the
+  project to your local computer.
+- Clone the project using `https://github.com/PubuduJ/to-do-list-app.git` terminal command.
+
 
 ## Available Scripts
 
@@ -39,32 +62,9 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Version
+v1.0.0
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## License
+Copyright &copy; 2023 [Pubudu Janith](https://www.linkedin.com/in/pubudujanith94/). All Rights Reserved.<br>
+This project is licensed under the [MIT license](LICENSE.txt).
