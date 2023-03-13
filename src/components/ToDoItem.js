@@ -5,7 +5,7 @@ function ToDoItem(props) {
     }
 
     return (
-        <div onClick={deleteExistingItem}>
+        <div className={"to-do-item-container"} onClick={deleteExistingItem}>
             <li>{props.text}</li>
         </div>
     );

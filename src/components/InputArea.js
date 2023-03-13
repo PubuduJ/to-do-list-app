@@ -14,9 +14,9 @@ function InputArea(props) {
     }
 
     return (
-        <div>
+        <div className={"form"}>
             <input onChange={handleChange} type="text" value={inputText}/>
-            <button onClick={addNewItem}>Add</button>
+            <button onClick={addNewItem}><span>Add</span></button>
         </div>
     );
 }
