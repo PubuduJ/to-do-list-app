@@ -1,4 +1,3 @@
-import './App.css';
 import {useState} from "react";
 import InputArea from "./components/InputArea";
 import ToDoItem from "./components/ToDoItem";
