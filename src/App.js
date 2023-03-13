@@ -1,5 +1,6 @@
 import './App.css';
 import {useState} from "react";
+import InputArea from "./components/InputArea";
 
 function App() {
     const [items, setItems] = useState([]);
@@ -19,9 +20,14 @@ function App() {
     }
 
     return (
-        <>
-            <h1>Hello React</h1>
-        </>
+        <div>
+            <h1>To Do List</h1>
+            <div>
+                <InputArea
+                    onAdd={addItem}
+                />
+            </div>
+        </div>
     );
 }
 
