@@ -11,10 +11,8 @@ as well as **React hooks** and **React props.**
 
 ## Used Technologies
 
-- HTML5
-- CSS3
-- JavaScript
 - React JS
+- CSS3
 
 #### Used Integrated Development Environment
 - IntelliJ IDEA
